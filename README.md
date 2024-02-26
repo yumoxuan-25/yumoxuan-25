@@ -1,7 +1,7 @@
 
  ### 关于我
  欢迎来到yumoxuan的GitHub主页 ！✨ 
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumoxuan-25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yumoxuan-25)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jingchao-zeng-247a6a2b6/)
  
@@ -25,5 +25,5 @@
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumoxuan-25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumoxuan-25&show_icons=true&theme=radical)

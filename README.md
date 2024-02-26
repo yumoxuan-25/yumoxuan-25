@@ -9,14 +9,14 @@
  
  
 #### 🌱 Things I am currently working on : 
-- Taking online courses about Data Science and Machine Learning 
+- Engaged in JAVA software development
 
 
 
 #### ⚡ Things recent ones I'm interested in  : 
 - Diffusion model
 - Image generation
-- Text-to-Speech
+- video generation
 - LLM
 
   

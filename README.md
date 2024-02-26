@@ -26,12 +26,6 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 </p>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumoxuan-25&layout=compact)](https://github.com/yumoxuan-25/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumoxuan-25&hide=issues&show_icons=true)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
 

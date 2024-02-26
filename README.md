@@ -10,7 +10,6 @@
  
 #### 🌱 Things I am currently working on : 
 - Taking online courses about Data Science and Machine Learning 
-- [My website](https://yumoxuan-25.github.io) 🚀 *coming soon*
 
 
 #### ⚡ Things recent ones I'm interested in  : 
@@ -27,4 +26,4 @@
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanglina94)](https://github.com/anuraghazra/github-readme-stats)
+=

@@ -5,23 +5,16 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yumoxuan-25)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jingchao-zeng-247a6a2b6/)
  
-Welcome to my Github page! I am yumoxuan and I am currently Learning NLP and RL!  
- 
 <img align="right" alt="img" src="https://github.com/yumoxuan-25/yumoxuan-25/blob/main/img/ikaros.jpg" width="50%" height="auto" />
  
  
-#### 🌱 Things I am currently working on 🌱 : 
-- Taking online courses about Data Science and Machine Learning 
-- [My website](https://zhanglina94.github.io) 🚀 *coming soon*
- 
- 
-#### ⚡ Things recent ones I'm interested in ⚡ : 
+#### ⚡ 感兴趣的领域 ⚡ : 
 - Chat GPT
 - Stable Diffusion
 - Image generation
 - Layout2image
 - pix2pix
-#### 🌻 I am studying 🌻
+#### 🌻 正在学 🌻
 - IELTS
 - French
 - German
@@ -40,5 +33,4 @@ Welcome to my Github page! I am yumoxuan and I am currently Learning NLP and RL!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
 </p>
-<sub>Credits to: <br/>[Stable Diffusion](https://stablediffusionweb.com) for the wonderfull [picture](https://github.com/zhanglina94/zhanglina94/img/pic.jpg)</sub>
-If you want to know more, please refer to the my [website](https://zhanglina94.github.io).
+

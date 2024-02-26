@@ -8,15 +8,16 @@
 <img align="right" alt="img" src="https://github.com/yumoxuan-25/yumoxuan-25/blob/main/img/ikaros.jpg" width="50%" height="auto" />
  
  
-#### ⚡ 感兴趣的领域 ⚡ : 
-- Chat GPT
-- Stable Diffusion
+#### 🌱 Things I am currently working on : 
+- Taking online courses about Data Science and Machine Learning 
+- [My website](https://zhanglina94.github.io) 🚀 *coming soon*
+
+
+#### ⚡ Things recent ones I'm interested in  : 
+- Diffusion model
 - Image generation
-- Layout2image
-- pix2pix
-#### 🌻 正在学 🌻
-- python
-- 日语
+- Text-to-Speech
+- LLM
 #### :computer: Programming languages and tools :computer: : 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhanglina94&show_icons=true&hide_border=true" />

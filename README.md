@@ -4,7 +4,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumoxuan-25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yumoxuan-25)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jingchao-zeng-247a6a2b6/)
- 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumoxuan-25&show_icons=true&theme=radical)
 <img align="right" alt="img" src="https://github.com/yumoxuan-25/yumoxuan-25/blob/main/img/ikaros.jpg" width="50%" height="auto" />
  
  
@@ -26,4 +26,4 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumoxuan-25&show_icons=true&theme=radical)
+

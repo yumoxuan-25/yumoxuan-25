@@ -19,7 +19,6 @@
 - LLM
 #### :computer: Programming languages and tools :computer: : 
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=yumoxuan-25&show_icons=true&hide_border=true" />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <br />

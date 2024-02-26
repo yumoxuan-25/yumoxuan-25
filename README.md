@@ -29,5 +29,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yumoxuan-25&repo=github-readme-stats" />
 </a>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumoxuan-25&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumoxuan-25&show_icons=true&theme=radical)
  

@@ -10,7 +10,7 @@
  
 #### 🌱 Things I am currently working on : 
 - Taking online courses about Data Science and Machine Learning 
-- [My website](https://zhanglina94.github.io) 🚀 *coming soon*
+- [My website](https://yumoxuan-25.github.io) 🚀 *coming soon*
 
 
 #### ⚡ Things recent ones I'm interested in  : 

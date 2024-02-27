@@ -1,9 +1,13 @@
 
- ### 关于我
  欢迎来到yumoxuan的GitHub主页 ！✨ 
+ 
+  ### 关于我
+  
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yumoxuan-25)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jingchao-zeng-247a6a2b6/)
+
+ 爱好:看动漫、听歌、唱歌
 
 <img align="right" alt="img" src="https://github.com/yumoxuan-25/yumoxuan-25/blob/main/img/ikaros.jpg" width="50%" height="auto" />
  

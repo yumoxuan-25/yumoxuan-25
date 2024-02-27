@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=Hi+Welcome+%F0%9F%91%8B%F0%9F%8F%BB;I'm+yumoxuan)](https://git.io/typing-svg)
 
- 欢迎来到yumoxuan的GitHub主页 ！✨ 
-
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yumoxuan-25)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jingchao-zeng-247a6a2b6/)
 

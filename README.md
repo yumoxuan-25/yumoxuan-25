@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yumoxuan-25)
 
   ### 关于我
- 爱好:看动漫、听歌、唱歌
+ 爱好:看动漫、听歌、唱歌、钓鱼
  
 
 <img align="right" alt="img" src="https://github.com/yumoxuan-25/yumoxuan-25/blob/main/img/ikaros.jpg" width="50%" height="auto" />
